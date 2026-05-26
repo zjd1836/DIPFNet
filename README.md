@@ -6,6 +6,6 @@ Python 3.10
 pytorch 1.12.1  
 CUDA 11.3
 # GZ-UAV-BCD
-GZ-UAV-BCD: 链接: https://pan.baidu.com/s/1PsR4cz-xxyNvk0AGyfdkWw?pwd=xtre 提取码: xtre
+GZ-UAV-BCD: Link: https://pan.baidu.com/s/1PsR4cz-xxyNvk0AGyfdkWw?pwd=xtre Extraction Code: xtre
 # Citation
 If you use this code or dataset for your research, please cite our paper:  
