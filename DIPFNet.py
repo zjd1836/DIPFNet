@@ -368,7 +368,7 @@ class DIPFNet(nn.Module):
 if __name__ == '__main__':
     test_data1 = torch.rand(1, 3, 512, 512).cuda()
     test_data2 = torch.rand(1, 3, 512, 512).cuda()
-    model = GSISNet()
+    model = DIPFNet()
     model = model.cuda()
     output = model(test_data1, test_data2)
     flops, params = profile(model, inputs=(test_data1, test_data2))
