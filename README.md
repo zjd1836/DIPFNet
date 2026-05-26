@@ -1,5 +1,5 @@
 # A Novel Framework and Benchmark Dataset for Fine-Grained Urban Building Change Detection in Ultra-High-Resolution UAV Imagery
-For more ore information, please see our published paper at [Geo-spatial Information Science](https://github.com/zjd1836/DIPFNet/edit/main/README.md)  
+For more ore information, please see our published paper at [Geo-spatial Information Science](https://github.com/zjd1836/DIPFNet/edit/main/README.md) The official paper link will be updated once the article is published online.
 ![DIPFNet](net.jpg)
 # Requirements
 Python 3.10  
